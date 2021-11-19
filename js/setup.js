@@ -30,3 +30,19 @@ $('.owl-carousel-galeria').owlCarousel({
         }
     }
 })
+
+function bloquearScroll(id) {
+    document.documentElement.style.overflow = 'hidden';
+    document.body.scroll = "no";
+    window.location.href = id;
+    
+    document.querySelector(".owl-carousel-galeria.owl-theme-galeria").classList.add("gray");
+    document.querySelector(".trailer").classList.add("gray");
+}
+
+function liberarScroll() {
+    document.documentElement.style.overflow = 'scroll';
+    document.body.scroll = "yes";
+    document.querySelector(".owl-carousel-galeria.owl-theme-galeria").classList.remove("gray");
+    document.querySelector(".trailer").classList.remove("gray");
+}
