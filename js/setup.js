@@ -37,6 +37,8 @@ function bloquearScroll(id) {
     window.location.href = id;
     
     document.querySelector(".owl-carousel-galeria.owl-theme-galeria").classList.add("gray");
+    document.querySelector(".owl-carousel.owl-theme").classList.add("gray");
+    document.querySelector(".diretor").classList.add("gray");
     document.querySelector(".trailer").classList.add("gray");
 }
 
@@ -44,5 +46,7 @@ function liberarScroll() {
     document.documentElement.style.overflow = 'scroll';
     document.body.scroll = "yes";
     document.querySelector(".owl-carousel-galeria.owl-theme-galeria").classList.remove("gray");
+    document.querySelector(".owl-carousel.owl-theme").classList.remove("gray");
+    document.querySelector(".diretor").classList.remove("gray");
     document.querySelector(".trailer").classList.remove("gray");
 }
