@@ -1,0 +1,25 @@
+.carrossel-atores h3{
+    margin-top: 1%;
+    text-align: center;
+    font: bold;
+    color: black;
+}
+
+.carrossel-atores .info{
+    color: black;
+    margin-left: 10px;
+}
+
+.carrossel-atores .item img{
+    z-index: 8;
+    border-radius: 10px;
+    transform: scale(0.9);
+    transition: .2s ease all;
+}
+
+.carrossel-atores .item img:hover{
+    cursor: pointer;
+    transform: scale(1);
+}
+
+
