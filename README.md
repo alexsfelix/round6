@@ -40,7 +40,7 @@ Opções:
 * Aqui você encontra um carrossel com as fotos e informações dos principais atores da série e o diretor, no final do carrosel á direita tem um link que direciona para uma página com todo o elenco da série. O primeiro nome abaixo da foto é o nome do ator(atriz), abaixo é o nome do personagem e seu número de jogador na série, clicando na foto dos atores você é direcionado para um link externo com mais informações sobre o mesmo(a).
 
 #### Galeria de Fotos
-* A galeria de fotos exibe cenas da série, você pode rolar as imagens arrastando com mouse ou selecionando nas bolinhas abaixo das fotos, clicando duas vezes sobre qualquer imagem, abre o carrosel deixando as fotos maiores e visualizando uma por uma, o fundo fica preto e branco para dar mais destaque na foto principal, você pode navegar entre as setas da direita e esquerda para passar as fotos, clicar no "X" (No canto superior direito logo abaixo das opções do cabeçalho) para fechar a galeria, ou clicar nas opções do cabeçalho para continuar navegando.
+* A galeria de fotos exibe cenas da série, você pode rolar as imagens arrastando com mouse ou selecionando nas bolinhas abaixo das fotos, clicando duas vezes sobre qualquer imagem, abre o carrosel deixando as fotos maiores e visualizando uma por uma, o fundo fica preto e branco para dar mais destaque na foto principal, você pode navegar entre as setas da direita e esquerda para passar as fotos, aperte a tecla ESC para sair da galeria ou clique no "X" (No canto superior direito logo abaixo das opções do cabeçalho), ou clique nas opções do cabeçalho para continuar navegando.
 
 #### Trailer
 * Trailer oficial da sérire.
