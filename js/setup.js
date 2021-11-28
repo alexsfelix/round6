@@ -50,3 +50,10 @@ function liberarScroll() {
     document.querySelector(".diretor").classList.remove("gray");
     document.querySelector(".trailer").classList.remove("gray");
 }
+
+document.addEventListener("keyup", function(e) {
+    if(e.key === "Escape"){
+        const close = document.querySelector("#close");
+        close.click();
+    }
+})
