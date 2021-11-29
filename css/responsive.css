@@ -1,0 +1,61 @@
+@media (max-width: 600px) {
+    .trailer{
+        width: 100%;
+        height: 500px;
+        display: flex;
+        margin: 0 auto;
+        border-radius: 10px;
+    }
+    .diretor{
+        height: 40%;
+    }
+    
+    .diretor img{
+        border-radius: 10px;
+        width: 90%;
+        position: absolute;
+    }
+    .info-diretor{
+        padding-bottom: 5px;
+        background-color: white;
+        color: black;
+        transform: translateY(150px);
+    }
+
+    .elenco-completo{
+        padding: 50px 0px 50px 30px!important;
+    }
+    
+    .elenco-completo label{
+        margin-left: 20px!important;
+    }
+
+    header{
+        height: 4vh;
+    }
+
+    header nav a{
+        margin-right: 10px;
+        font-size: 10px;
+    }
+
+    header .container .menu{
+        margin-top: 2px;
+    }
+
+    main .principal .container{
+        font-size: 14px;
+        width: 88%;
+        height: 70%;
+    }
+    
+    main .principal .container .play{
+        margin-top: 10%;
+        text-align: center;
+    }
+
+    .box_img img {
+        margin-left: 3px;
+        width: 55%;
+    }
+}

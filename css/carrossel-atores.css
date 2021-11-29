@@ -15,7 +15,6 @@
 }
 
 .carrossel-atores .item img{
-    z-index: 7;
     border-radius: 10px;
     transform: scale(0.9);
     transition: .2s ease all;
@@ -29,7 +28,7 @@
     z-index: 8;
     width: 20%;
     background-color: white;
-    height: 400px;
+    height: 65%;
     position: absolute;
     padding-top: 40px;
 }
@@ -42,5 +41,5 @@
     padding-bottom: 5px;
     background-color: white;
     color: black;
-    transform: translateY(360px);
+    transform: translateY(390px);
 }

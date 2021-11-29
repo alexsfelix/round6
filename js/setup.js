@@ -4,7 +4,7 @@ $('.owl-carousel').owlCarousel({
     center:true,
     responsive:{
         0:{
-            items:2
+            items:4
         },
         600:{
             items:3
@@ -23,7 +23,7 @@ $('.owl-carousel-galeria').owlCarousel({
             items:2
         },
         600:{
-            items:3
+            items:2
         },
         1200:{
             items:2
@@ -40,6 +40,8 @@ function bloquearScroll(id) {
     document.querySelector(".owl-carousel.owl-theme").classList.add("gray");
     document.querySelector(".diretor").classList.add("gray");
     document.querySelector(".trailer").classList.add("gray");
+    document.querySelector(".principal").classList.add("gray");
+    document.querySelector(".capa").classList.add("gray");
 }
 
 function liberarScroll() {
@@ -49,6 +51,8 @@ function liberarScroll() {
     document.querySelector(".owl-carousel.owl-theme").classList.remove("gray");
     document.querySelector(".diretor").classList.remove("gray");
     document.querySelector(".trailer").classList.remove("gray");
+    document.querySelector(".principal").classList.remove("gray");
+    document.querySelector(".capa").classList.remove("gray");
 }
 
 document.addEventListener("keyup", function(e) {
