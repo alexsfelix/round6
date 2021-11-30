@@ -4,7 +4,10 @@
 * Análise e Desenvolvimento de Sistemas
 
 ### Objetivo
-* Desenvolver uma fan page do seriado Round 6 da [NETFLIX](https://www.netflix.com)
+* Desenvolver uma fan page do seriado Round 6 da [NETFLIX](https://www.netflix.com) e publicar em um provedor de cloud.
+
+### Provedor Cloud
+* [AWS](http://www.round6.com.br.s3-website.us-east-2.amazonaws.com)
 
 ### IDE
 * VS Code
@@ -48,5 +51,6 @@ Opções:
 #### Comentários
 * Um espaço reservado para você deixar seu comentário através do seu login no facebook.
 
-#### Link para visualizar o projeto
-* https://alexsfelix.github.io/round6/
+#### Veja o projeto aqui.
+* [GITHUB PAGES](https://alexsfelix.github.io/round6/)
+* [AWS](http://www.round6.com.br.s3-website.us-east-2.amazonaws.com)
