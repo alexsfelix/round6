@@ -7,7 +7,7 @@
 * Desenvolver uma fan page do seriado Round 6 da [NETFLIX](https://www.netflix.com), versonado no [GITHUB](https://github.com) e publicado em um provedor de cloud.
 
 ### Provedor Cloud
-* [AWS](http://www.round6.com.br.s3-website.us-east-2.amazonaws.com)
+* [AWS](https://aws.amazon.com)
 
 ### IDE
 * VS Code
