@@ -1,7 +1,7 @@
 @media (max-width: 600px) {
     
     main .principal {
-        height: 85vh;
+        height: 80vh;
     }
 
     main .principal .container{
@@ -16,7 +16,7 @@
     }
 
     main .principal .container .play{
-        margin-top: 15%;
+        margin-top: 20%;
         text-align: center;
     }
 
@@ -26,7 +26,7 @@
     }
 
     header nav a{
-        margin-right: 5px;
+        margin-right: 4px;
         font-size: 10px;
     }
 
