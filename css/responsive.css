@@ -1,5 +1,14 @@
 @media (max-width: 600px) {
-    
+    header{
+        height: 7vh;
+        justify-content: center;
+    }
+
+    header nav a{
+        margin-right: 4px;
+        font-size: 10px;
+    }
+
     main .principal {
         height: 80vh;
     }
@@ -32,17 +41,6 @@
         margin-left: 100px;
         margin-top: -60px;
         display: block;
-    }
-
-
-    header{
-        height: 7vh;
-        justify-content: center;
-    }
-
-    header nav a{
-        margin-right: 4px;
-        font-size: 10px;
     }
 
     .carrossel-atores .info{
@@ -86,5 +84,9 @@
         display: flex;
         margin: 0 auto;
         border-radius: 10px;
+    }
+
+    .owl-theme-galeria .owl-dots .owl-dot span {
+        margin: 2px 5px;
     }
 }
