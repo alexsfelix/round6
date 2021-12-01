@@ -8,9 +8,8 @@ main .principal {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    margin-bottom: 5px;
+    margin-bottom: 1%;
 }
-
 main .principal .container{
     display: flex;
     margin-top: 4%;

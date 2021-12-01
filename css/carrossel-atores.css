@@ -36,6 +36,8 @@
     border-radius: 10px;
     width: 75%;
     position: absolute;
+    display: flex;
+    align-content: flex-end;
 }
 .info-diretor{
     padding-bottom: 5px;

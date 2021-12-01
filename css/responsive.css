@@ -1,15 +1,48 @@
 @media (max-width: 600px) {
-    .trailer{
-        width: 100%;
-        height: 500px;
-        display: flex;
-        margin: 0 auto;
-        border-radius: 10px;
+    
+    main .principal {
+        height: 85vh;
     }
-    .diretor{
-        height: 40%;
+
+    main .principal .container{
+        margin-left: 2%;
+        font-size: 12px;
+        width: 95%;
+        height: 80%;
     }
     
+    main .principal .container .capa{
+        width: 60%;
+    }
+
+    main .principal .container .play{
+        margin-top: 15%;
+        text-align: center;
+    }
+
+    header{
+        height: 7vh;
+        justify-content: center;
+    }
+
+    header nav a{
+        margin-right: 5px;
+        font-size: 10px;
+    }
+
+    .carrossel-atores .info{
+        font-size: 12px;
+    }
+    
+    .box_img img {
+        margin-left: 3px;
+        width: 55%;
+    }
+
+    .diretor{
+        height: 45%;
+    }
+
     .diretor img{
         border-radius: 10px;
         width: 90%;
@@ -30,32 +63,11 @@
         margin-left: 20px!important;
     }
 
-    header{
-        height: 4vh;
-    }
-
-    header nav a{
-        margin-right: 10px;
-        font-size: 10px;
-    }
-
-    header .container .menu{
-        margin-top: 2px;
-    }
-
-    main .principal .container{
-        font-size: 14px;
-        width: 88%;
-        height: 70%;
-    }
-    
-    main .principal .container .play{
-        margin-top: 10%;
-        text-align: center;
-    }
-
-    .box_img img {
-        margin-left: 3px;
-        width: 55%;
+    .trailer{
+        width: 100%;
+        height: 500px;
+        display: flex;
+        margin: 0 auto;
+        border-radius: 10px;
     }
 }

@@ -5,9 +5,6 @@ header{
     height: 4vh;
     transition: all ease 1s;
     background: linear-gradient(to bottom,rgba(0,0,0,.7)90%,rgba(0,0,0,0));
-}
-
-header .container{
     display: flex;
     align-items: center;
     justify-content: right;
