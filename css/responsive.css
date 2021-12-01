@@ -12,13 +12,23 @@
     }
     
     main .principal .container .capa{
+        margin-top: 40px;
         width: 60%;
+        height: 70%;
     }
 
     main .principal .container .play{
+        display: none;
         margin-top: 20%;
         text-align: center;
     }
+    
+    main .principal .play-down a{
+        margin-left: 100px;
+        margin-top: -60px;
+        display: block;
+    }
+
 
     header{
         height: 7vh;
@@ -31,7 +41,7 @@
     }
 
     .carrossel-atores .info{
-        font-size: 12px;
+        font-size: 10px;
     }
     
     .box_img img {

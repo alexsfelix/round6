@@ -29,7 +29,7 @@
 * contem opções a direita para navegar entre a página e links externos.
 
 Opções:
-* Voltar para o topo: Retorna para o inicio da página.
+* Inicio: Retorna para o inicio da página.
 * Elenco Principal: Leva o usuário para um carrossel com fotos e informações do elenco principal e diretor do seriado.
 * Todo Elenco: Opção disponível também no final do carrossel do elenco principal, leva o usuário para outra página com informações de todo o elenco.
 * Galeria de Fotos: Uma galeria exibida em um carrosel com cenas do seriado.

@@ -61,7 +61,14 @@ main .principal .container .play a{
     color: #AAA;
 }
 
-main .principal .container .play a:hover{
+main .principal .play-down a{
+    display: none;
+    text-decoration: none;
+    color: #AAA;
+}
+
+main .principal .container .play a:hover,
+main .principal .play-down a:hover{
     cursor: pointer;
     color: #fff;
 }
