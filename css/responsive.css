@@ -6,9 +6,14 @@
 
     main .principal .container{
         margin-left: 2%;
-        font-size: 12px;
+        font-size: 11px;
         width: 95%;
         height: 80%;
+    }
+
+    main .principal .container .descricao{
+        margin: 6% 2%;
+        text-align: justify;
     }
     
     main .principal .container .capa{
