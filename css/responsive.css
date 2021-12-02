@@ -78,15 +78,30 @@
         margin-left: 20px!important;
     }
 
-    .trailer{
-        width: 100%;
-        height: 500px;
-        display: flex;
-        margin: 0 auto;
-        border-radius: 10px;
-    }
-
     .owl-theme-galeria .owl-dots .owl-dot span {
         margin: 2px 5px;
+    }
+
+    .box_img {
+        width: 645px;
+        margin: 210px auto;
+    }
+
+    #prev {
+        left: 0;
+        top: 45%;
+    }
+    #next {
+        right: 0;
+        top: 45%;
+    }
+    #close {
+        right: 2%;
+        top: 6%;
+    }
+
+    .trailer iframe{
+        width: 300px!important;
+        height: 200px!important;
     }
 }
