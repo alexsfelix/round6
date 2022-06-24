@@ -53,4 +53,4 @@ Opções:
 
 #### Veja o projeto aqui.
 * [GITHUB PAGES](https://alexsfelix.github.io/round6/)
-* [AWS](http://www.round6.com.br.s3-website.us-east-2.amazonaws.com)
+* [AWS](http://staticwebservices.s3-website-sa-east-1.amazonaws.com)
